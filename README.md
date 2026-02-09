@@ -39,7 +39,7 @@ The model identified the following features as most critical for triage:
 2.  **Pet Size** (Adoption difficulty)
 3.  **Intake Type** (Stray vs. Surrender)
 
-![Feature Importance](images/Feature Importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 

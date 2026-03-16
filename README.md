@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-4.0-success?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-4.6-success?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-1.2-yellow?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 

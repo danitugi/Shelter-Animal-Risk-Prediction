@@ -9,7 +9,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 > **Authors:** Kfir Diamond & Daniel Tugendhaft
+
 > **Course:** Advanced Topics in ML / Data Mining
+
 > **Link to data:** https://catalog.data.gov/dataset/louisville-metro-ky-animal-service-intake-and-outcome
 ---
 
